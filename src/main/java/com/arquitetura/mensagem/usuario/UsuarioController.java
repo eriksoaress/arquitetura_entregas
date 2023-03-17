@@ -1,4 +1,4 @@
-package com.arquitetura.mensagem.Usuario;
+package com.arquitetura.mensagem.usuario;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
